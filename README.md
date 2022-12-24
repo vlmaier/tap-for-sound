@@ -4,6 +4,8 @@ I have developed this Android application back in 2014. I had no Git experience 
 
 It was the time I saw many soundboard apps rise and decided to create my own soundboard application with the custom sounds which I found hilarious at the time.
 
+First time I got my hands on the `MediaPlayer` and abused the Activity Lifecycle: https://github.com/vlmaier/tap-for-sound/blob/main/app/src/main/java/com/vladas/tapforsound/MainActivity.java#L83
+
 ## Layout Showcase
 
 <p float="left">
